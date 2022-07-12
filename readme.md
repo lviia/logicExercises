@@ -1,0 +1,1 @@
+Hello!! Here you find solutions of some logic exercises, solved using the Swift language.
